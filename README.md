@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm install
+Vue create 'yourFolder'
 ```
 
 ### Compiles and hot-reloads for development
