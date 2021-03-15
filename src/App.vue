@@ -28,7 +28,7 @@ export default {
 
     const removeList = (parameter) => {
       return todo.list.splice(parameter,1),
-      (todo.list.length == 0)?alert("finish todolist"):null
+      (todo.list.length == 0) ? alert("finish todolist"):null
     }
     
     return{
